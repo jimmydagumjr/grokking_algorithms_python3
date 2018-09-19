@@ -1,2 +1,5 @@
 # grokking_algorithms_python3
-Will include exercises and basic algorithms in python 3 as I progress through the book.
+
+This repository covers exercises and algorithms in the book "Grokking Algorithms" by Aditya Y. Bhargava.
+
+This will not be in any particular order and I will update the repository as I progress through the book.
